@@ -1,3 +1,4 @@
+import 'package:carmel_bakery/HomePage/HomePage.dart';
 import 'package:carmel_bakery/LoginPage/LoginPage.dart';
 import 'package:flutter/material.dart';
 
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: LoginPage(),
+      home: HomePage(),
     );
   }
 }
