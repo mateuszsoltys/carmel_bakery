@@ -1,5 +1,4 @@
-import 'package:carmel_bakery/HomePage/HomePage.dart';
-import 'package:carmel_bakery/LoginPage/LoginPage.dart';
+import 'package:carmel_bakery/features/home/page/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
