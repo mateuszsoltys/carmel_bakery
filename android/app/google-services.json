@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374235261611",
+    "project_id": "carmel-bakery-customerapp",
+    "storage_bucket": "carmel-bakery-customerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374235261611:android:cad95283dab9dee17da5ee",
+        "android_client_info": {
+          "package_name": "mateuszsoltys.carmel_bakery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374235261611-he2815vqd40bt9eouupflre00j9iu322.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8E6Kla9sE7z9SN-jWFQXWSJ3ZHm4dkCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374235261611-he2815vqd40bt9eouupflre00j9iu322.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
